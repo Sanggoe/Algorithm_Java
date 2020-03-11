@@ -1,4 +1,4 @@
-package com.sanggoe.algorithm;
+package com.sanggoe.euclid_algorithm;
 
 /*Problem
 Someone just won the Code Jam lottery, and we owe them N jamcoins!
